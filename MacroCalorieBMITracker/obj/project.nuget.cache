@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnB+DahZ8CBM3mrUMQZXjcnigstm84JVRk1l7sIbT86ufjDbfgT5S36ENFaB6RpNyT06RzEzdTsBdS85cn/acA==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\MacroCalorieBMITracker_backend\\MacroCalorieBMITracker\\MacroCalorieBMITracker\\MacroCalorieBMITracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kejo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Kejo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Kejo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Kejo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Kejo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Kejo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

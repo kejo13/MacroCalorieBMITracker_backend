@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VnB+DahZ8CBM3mrUMQZXjcnigstm84JVRk1l7sIbT86ufjDbfgT5S36ENFaB6RpNyT06RzEzdTsBdS85cn/acA==",
+  "dgSpecHash": "myZ7vx9m0Ae1N8CoFaR7NoAjpQBH9Jv6vtDAorSCWhftxXm3R0l4wU5l3SbAtsNNJu8eBseoZ9jnludv/S7kLw==",
   "success": true,
-  "projectFilePath": "D:\\source\\repos\\MacroCalorieBMITracker_backend\\MacroCalorieBMITracker\\MacroCalorieBMITracker\\MacroCalorieBMITracker.csproj",
+  "projectFilePath": "D:\\source\\repos\\My Projects\\MacroCalorieBMITracker_backend\\MacroCalorieBMITracker\\MacroCalorieBMITracker\\MacroCalorieBMITracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kejo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Kejo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

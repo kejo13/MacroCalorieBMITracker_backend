@@ -10,4 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="MacroCalorieBmi.API\Controllers\" />
+    <Folder Include="MacroCalorieBmi.API\Models\" />
+    <Folder Include="MacroCalorieBmi.API\DataTransferObjects\" />
+  </ItemGroup>
+
 </Project>
